@@ -140,7 +140,7 @@
         "editorBracketPairGuide.activeBackground6": "#c49a5a",
 
         "selection.background": "#515c7e40",
-        "editor.background": "#181925",
+        "editor.background": "#101421",
         "editor.foreground": "#a9b1d6",
         "editor.foldBackground": "#1111174a",
         "editorLink.activeForeground": "#acb0d0",
@@ -254,7 +254,7 @@
         "tab.unfocusedActiveForeground": "#a9b1d6",
         "tab.unfocusedInactiveForeground": "#787c99",
         "tab.unfocusedHoverForeground": "#a9b1d6",
-        "tab.activeModifiedBorder": "#181925",
+        "tab.activeModifiedBorder": "#101421",
         "tab.inactiveModifiedBorder": "#1f202e",
         "tab.unfocusedActiveBorder": "#1f202e",
         "tab.lastPinnedBorder": "#222333",
